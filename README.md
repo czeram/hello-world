@@ -1,4 +1,7 @@
 # hello-world
 github_hello-world Übung
 
-Meine erste Übung direkt auf GitHub.
+Meine allererste Übung direkt auf GitHub.
+
+... und nun gleich meine zweite.
+
